@@ -1,0 +1,13 @@
+# Ignore sensitive data
+.env
+.env.local
+.env.example
+
+# Ignore Node.js folders
+node_modules/
+npm-debug.log*
+
+# Ignore any specific example files
+step-guide.md
+instructions.txt
+examples/
